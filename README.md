@@ -9,3 +9,4 @@ Challenges:
 * Notice that the 8th column contains a person’s name. Create an array with each first name. Identify the most common first name in the data and how many times it occurs.
 
 Link to the data: https://www.fec.gov/files/bulk-downloads/2018/indiv18.zip
+Original post: https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33
