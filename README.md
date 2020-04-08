@@ -2,7 +2,7 @@
 <p>
   <em>The challenge involves reading through very large files of data from the Federal Elections Commission and displaying back specific data from those files.</em>
 </p>
-<p>
+<p align="center">
   <h2>🧠 Specifications:</h2></br>
   <ul>
     <li>Write a program that will print out the total number of lines in the file.</li>
