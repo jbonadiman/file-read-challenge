@@ -27,7 +27,7 @@ const notableNames = [];
 // Count lines, ocurrences of names and save the requested names
 readInterface.on('line', function(line) {
   linecount += 1
-  
+
   const { name = '' } = line.match(extractionPattern).groups;
 
   if (linecount == 432 || linecount == 43243) {
@@ -80,13 +80,8 @@ function parseDate(date) {
 }
 
 function printResults() {
-  // console.time('sortNames');
-  // const sortedNames = sortObjEntries(firstNameCounter);
-  // console.timeEnd('sortNames');
-  //const sortedDates = sortObjEntries(dateCounter);
-
   const endTime = Date.now();
-  console.log(`Execution took ${(endTime - startTime) / 1000} seconds.`);
+  console.log(`Execution took ${(endTime - startTime) / 1000} ms.`);
   console.log(`Total number of lines: ${linecount}`);
   console.log(`432nd name: ${notableNames[0] || 'Not obtained yet'}`);
   console.log(`43243rd name: ${notableNames[1] || 'Not obtained yet'}`);
