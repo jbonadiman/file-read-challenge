@@ -19,5 +19,5 @@
 
 <p align="center">
   <span><strong>🧙‍ Solutions:</strong></span></br>
-  <span>✔ node.js</span></br>
+  <span>✔ <a href="https://github.com/jbonadiman/file-read-challenge/tree/master/src/node.js">node.js</a></span></br>
 </p>
