@@ -13,8 +13,8 @@
 </p>
 <p align="center">
   <span><strong>🔗 Links:</strong></span></br>
-  <span>Original <a href="https://www.fec.gov/files/bulk-downloads/2018/indiv18.zip">data</a></span></br>
-  <span>Original blog <a href="https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33">post</a></span>
+  <span>Original <a href="https://www.fec.gov/files/bulk-downloads/2018/indiv18.zip">dataset</a></span></br>
+  <span>Original <a href="https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33">blog post</a></span>
 </p>
 
 <p align="center">
